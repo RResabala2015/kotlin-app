@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DABF</string>
+    <string name="register">Aún no tienes cuenta? Registrate</string>
+    <string name="error_login_response">Se obtuvo una respuesta inesperada del servidor</string>
+    <string name="error_invalid_credentials">Las credenciales son incorrectas</string>
+    <string name="error_empty_credentials">Por favor ingrese un correo y una contraseña</string>
+    <string name="error_data_registrer">Llene todos los campos</string>
+    <string name="error_register_values">Ocurrio un error en el registro</string>
+    <string name="txt_failed_direc_ob">Llene los campos faltantes</string>
+    <string name="str_ordenes_error">No se puede guardar su orden, intentelo más tarde</string>
+    <string name="txt_mesaage_signup">Usuario Generado Correctamente por favor inicie sesión</string>
+    <string name="item_orderid">"Orden de compra: %1$d"</string>
+    <string name="item_money">"$%1$s"</string>
+</resources>
