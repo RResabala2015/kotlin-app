@@ -1,7 +1,7 @@
-# DABF Mobile App 📱
-![Captura de pantalla de la DABF Mobile App](https://user-images.githubusercontent.com/50778384/153723440-b4b50047-93cb-4054-9f9c-e3c2608fc290.png)
+# Kotlin App 📱
+![Captura de pantalla de la Kotlin App](https://user-images.githubusercontent.com/50778384/153723440-b4b50047-93cb-4054-9f9c-e3c2608fc290.png)
 
-Welcome to the DABF Mobile App, a modern and user-friendly virtual store, developed in Kotlin and integrated with a Laravel backend for an efficient shopping experience.
+Welcome to the Kotlin App, a modern and user-friendly virtual store, developed in Kotlin and integrated with a Laravel backend for an efficient shopping experience.
 
 ## Features 
 
@@ -21,8 +21,8 @@ Welcome to the DABF Mobile App, a modern and user-friendly virtual store, develo
 
 ```bash
 # Clone the repository
-git clone https://github.com/codediaz/dabf-mobile-app.git
+git clone https://github.com/RResabala2015/kotlin-app.git
 
 # Enter the project directory
-cd dabf-mobile-app
+cd kotlin-app
 ```
